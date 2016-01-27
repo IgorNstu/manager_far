@@ -1,4 +1,4 @@
-int new_list (int , char*, char*);
-int selector (int , int , int ) ;
-int my_open (int,int);
-int init_scr (void);
+int new_list (int , char*, char*);//отрисовка списка
+int selector (int , int , int ) ;//управление селектором
+int my_open (int,int);//открытие файла
+int init_scr (void);//инициализация нового экрана
